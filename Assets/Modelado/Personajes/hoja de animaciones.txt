@@ -1,0 +1,14 @@
+10 hasta 40 bucle de parado
+66 hasta 85 bucle de andando 
+90 hasta 120 bucle de muerte (se cae de rodillas y se cae hacia delante)
+125 hasta 154 bucle de salto
+ 160  hasta 176 espadazo        bucle de ataque-espadazo y añadir combos 380 hasta 392 segundo espadazo
+180 hasta 199  bucle de recibir daño
+220 hasta 240 bucle 2 de combate sin moverse
+253 hasta 269 bucle de empuje
+275 hasta 289   bucle de correr
+300 HASTA 320 coge la rata del suelo 346 hasta 338 lo guarda y luego invertir el bucle
+321 hasta 332   VA A TIRAR LA RATA  HASTA EL 344 LO GUARDA EN EL BOLSILLO TRASERO
+360 hasta 368 CONTINUACION DE 332 PARA TIRAR LA RATA
+380 hasta 390 otro ataque
+        

@@ -1,0 +1,116 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5b11a58205ec3474ca216360e9fa74a8, type: 3}
+  m_Name: menu Shared Data
+  m_EditorClassIdentifier: 
+  m_TableCollectionName: menu
+  m_TableCollectionNameGuidString: 1e4bfe74821b2fe4fa1d2744377449ca
+  m_Entries:
+  - m_Id: 12758540288
+    m_Key: Idioma
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1048764211200
+    m_Key: Controles
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1273461465088
+    m_Key: Voces
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1364930846720
+    m_Key: Ambiente
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1514013188096
+    m_Key: Modo
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1574344056832
+    m_Key: Tasa de Refresco
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1634406490112
+    m_Key: Renderizado
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1666920734720
+    m_Key: Volver
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1723191517184
+    m_Key: Cargar
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1755403771904
+    m_Key: Borrar
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1835972157440
+    m_Key: Duplicar
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1926371991552
+    m_Key: Si
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1961964855296
+    m_Key: No
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2288952795136
+    m_Key: Pantalla Completa
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2317377593344
+    m_Key: Modo Ventana
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2374751477760
+    m_Key: Resolucion
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2438748168192
+    m_Key: Suavizado de texturas
+    m_Metadata:
+      m_Items: []
+  - m_Id: 735082115039232
+    m_Key: Opciones
+    m_Metadata:
+      m_Items: []
+  - m_Id: 735113240969216
+    m_Key: Nueva Partida
+    m_Metadata:
+      m_Items: []
+  - m_Id: 735163471953920
+    m_Key: Cargar Partida
+    m_Metadata:
+      m_Items: []
+  - m_Id: 735184007266304
+    m_Key: Opcione
+    m_Metadata:
+      m_Items: []
+  - m_Id: 735414626877440
+    m_Key: Salir
+    m_Metadata:
+      m_Items: []
+  m_Metadata:
+    m_Items: []
+  m_KeyGenerator:
+    rid: 4445260968294088728
+  references:
+    version: 2
+    RefIds:
+    - rid: 4445260968294088728
+      type: {class: DistributedUIDGenerator, ns: UnityEngine.Localization.Tables, asm: Unity.Localization}
+      data:
+        m_CustomEpoch: 1702555252312

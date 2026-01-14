@@ -1,0 +1,633 @@
+fileFormatVersion: 2
+guid: 949fa6c808f12b84d87d6aa5dc570883
+ModelImporter:
+  serializedVersion: 22200
+  internalIDToNameTable: []
+  externalObjects: {}
+  materials:
+    materialImportMode: 2
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    removeConstantScaleCurves: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: "\nClip 'Armature.001|Armature.001Action' has import
+      animation warnings that might lower retargeting quality:\nNote: Activate translation
+      DOF on avatar to improve retargeting quality.\n\t'base' has translation animation
+      that will be discarded.\n\t'HOMBRO IZQUIERDO.R' has translation animation that
+      will be discarded.\n\t'HOMBRO DERECHO.L' has translation animation that will
+      be discarded.\n\t'ROTOR PIERNA IZQUIERDA.R' has translation animation that
+      will be discarded.\n\t'ROTOR PIERNA DERECHO.L' has translation animation that
+      will be discarded.\n"
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 3
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: Walk
+      takeName: Armature.001|Armature.001Action
+      internalID: 2264077025236624520
+      firstFrame: 20
+      lastFrame: 48
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 0
+      loopBlendOrientation: 1
+      loopBlendPositionY: 1
+      loopBlendPositionXZ: 1
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 0
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Idle
+      takeName: Armature.001|Armature.001Action
+      internalID: 43869008991569255
+      firstFrame: 48
+      lastFrame: 57
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 0
+      loopBlendOrientation: 1
+      loopBlendPositionY: 1
+      loopBlendPositionXZ: 1
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 0
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Attack
+      takeName: Armature.001|Armature.001Action
+      internalID: 5723039002418448038
+      firstFrame: 60
+      lastFrame: 88
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 1
+      loopBlendPositionY: 1
+      loopBlendPositionXZ: 1
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 0
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Death
+      takeName: Armature.001|Armature.001Action
+      internalID: 7825137583138807346
+      firstFrame: 94
+      lastFrame: 102
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 1
+      loopBlendPositionXZ: 1
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    isReadable: 0
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    sortHierarchyByName: 1
+    importPhysicalCameras: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    nodeNameCollisionStrategy: 1
+    fileIdsGeneration: 2
+    swapUVChannels: 0
+    generateSecondaryUV: 1
+    useFileUnits: 1
+    keepQuads: 0
+    weldVertices: 1
+    bakeAxisConversion: 0
+    preserveHierarchy: 0
+    skinWeightsMode: 0
+    maxBonesPerVertex: 4
+    minBoneWeight: 0.001
+    optimizeBones: 1
+    meshOptimizationFlags: -1
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVMarginMethod: 1
+    secondaryUVMinLightmapResolution: 40
+    secondaryUVMinObjectScale: 1
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    strictVertexDataChecks: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  referencedClips: []
+  importAnimation: 1
+  humanDescription:
+    serializedVersion: 3
+    human:
+    - boneName: Armature.001
+      humanName: Hips
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: ROTOR PIERNA DERECHO.L
+      humanName: LeftUpperLeg
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: ROTOR PIERNA IZQUIERDA.R
+      humanName: RightUpperLeg
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: TOBILLO DERECHO.L
+      humanName: LeftLowerLeg
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: PIERNA IZQUIERDA.R
+      humanName: RightLowerLeg
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: UNION SUELA DERECHO.L
+      humanName: LeftFoot
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: UNION PIE IZQUIERDO.R
+      humanName: RightFoot
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: base
+      humanName: Spine
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: nucleo
+      humanName: Chest
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Bone.014
+      humanName: Neck
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Bone.016
+      humanName: Head
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: union trapecio hombro DERECHO.L
+      humanName: LeftShoulder
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: TRAPECIO IZQUIERDO.R
+      humanName: RightShoulder
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: HOMBRO DERECHO.L
+      humanName: LeftUpperArm
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: union trapecio hombro.R
+      humanName: RightUpperArm
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: BRAZO DERECHO.L
+      humanName: LeftLowerArm
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: HOMBRO IZQUIERDO.R
+      humanName: RightLowerArm
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: MANO DERECHO.L
+      humanName: LeftHand
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: BRAZO IZQUIERDO.R
+      humanName: RightHand
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: UNION SUELA IZQUIERDA.R
+      humanName: RightToes
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Bone.017
+      humanName: RightEye
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: pectoral
+      humanName: UpperChest
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    skeleton:
+    - name: robot guantazos(Clone)
+      parentName: 
+      position: {x: 0, y: 0, z: 0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: robot
+      parentName: robot guantazos(Clone)
+      position: {x: -0, y: -0.0650475, z: 0}
+      rotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071067}
+      scale: {x: 100, y: 100, z: 100}
+    - name: cara robot
+      parentName: robot guantazos(Clone)
+      position: {x: -0, y: -0.0650475, z: 0}
+      rotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071067}
+      scale: {x: 100, y: 100, z: 100}
+    - name: cara robot orjeas negro
+      parentName: robot guantazos(Clone)
+      position: {x: -0, y: -0.0650475, z: 0}
+      rotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071067}
+      scale: {x: 100, y: 100, z: 100}
+    - name: cara robot pico
+      parentName: robot guantazos(Clone)
+      position: {x: -0, y: -0.0650475, z: 0}
+      rotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071067}
+      scale: {x: 100, y: 100, z: 100}
+    - name: cabeza con agujeros
+      parentName: robot guantazos(Clone)
+      position: {x: -0, y: -0.0650475, z: 0}
+      rotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071067}
+      scale: {x: 100, y: 100, z: 100}
+    - name: cara base
+      parentName: robot guantazos(Clone)
+      position: {x: -0, y: -0.0650475, z: 0}
+      rotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071067}
+      scale: {x: 100, y: 100, z: 100}
+    - name: Armature.001
+      parentName: robot guantazos(Clone)
+      position: {x: 0.000000059604645, y: 2.949941, z: -0.018200338}
+      rotation: {x: -0.0000000012987382, y: -0.7071067, z: -0.7071068, w: 0.000000001298738}
+      scale: {x: 100, y: 100, z: 100}
+    - name: base
+      parentName: Armature.001
+      position: {x: -0, y: 0, z: 0.0025997208}
+      rotation: {x: 0.7071068, y: -0, z: -0, w: 0.7071068}
+      scale: {x: 1, y: 0.9999998, z: 0.9999998}
+    - name: nucleo
+      parentName: base
+      position: {x: -0, y: 0.0049826885, z: 0}
+      rotation: {x: -0, y: -0.00000012078088, z: 0.0000000064488823, w: 1}
+      scale: {x: 1, y: 1, z: 0.99999994}
+    - name: pectoral
+      parentName: nucleo
+      position: {x: 4.8312358e-11, y: 0.017474059, z: 4.6566128e-12}
+      rotation: {x: -9.576359e-16, y: 0.0000000014551489, z: -0.000000008006399, w: 1}
+      scale: {x: 1, y: 0.99999994, z: 1}
+    - name: TRAPECIO IZQUIERDO.R
+      parentName: pectoral
+      position: {x: 1.0099029e-10, y: 0.010985764, z: 0}
+      rotation: {x: 0.00000024613902, y: 0.000000039515044, z: 0.8139688, w: 0.5809087}
+      scale: {x: 1.0000021, y: 1.0000021, z: 1.0000002}
+    - name: union trapecio hombro.R
+      parentName: TRAPECIO IZQUIERDO.R
+      position: {x: -0.0000000012185774, y: 0.010501866, z: 0}
+      rotation: {x: 0.00000014684991, y: -0.000000257708, z: -0.19851117, w: 0.98009866}
+      scale: {x: 1.0000017, y: 1.0000007, z: 1.0000005}
+    - name: HOMBRO IZQUIERDO.R
+      parentName: union trapecio hombro.R
+      position: {x: 1.6472768e-10, y: 0.0023928795, z: 0}
+      rotation: {x: -0.000000048600686, y: 0.00000016638622, z: -0.002142831, w: 0.9999977}
+      scale: {x: 0.99999946, y: 1.0000007, z: 0.9999998}
+    - name: BRAZO IZQUIERDO.R
+      parentName: HOMBRO IZQUIERDO.R
+      position: {x: -0.0000000018300488, y: 0.0047696284, z: -1.3038516e-10}
+      rotation: {x: 0.0000006554348, y: 0.00000013909512, z: 0.039125092, w: 0.9992344}
+      scale: {x: 1.0000008, y: 1.0000018, z: 1.0000002}
+    - name: MANO IZQUIERDO.R
+      parentName: BRAZO IZQUIERDO.R
+      position: {x: 0.0000000011455268, y: 0.022753669, z: -9.313225e-11}
+      rotation: {x: -0.000000014422623, y: 0.00000015578826, z: 0.019902734, w: 0.99980193}
+      scale: {x: 1.0000033, y: 1.0000026, z: 1.0000002}
+    - name: MANO IZQUIERDO.R_end
+      parentName: MANO IZQUIERDO.R
+      position: {x: -0, y: 0.007846556, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Bone.014
+      parentName: pectoral
+      position: {x: 1.0099029e-10, y: 0.010985764, z: 0}
+      rotation: {x: -0.001535326, y: -0.000000025795751, z: -0.00010735912, w: 0.9999988}
+      scale: {x: 1.0000008, y: 1.0000005, z: 1}
+    - name: Bone.016
+      parentName: Bone.014
+      position: {x: -3.1141097e-11, y: 0.002891942, z: 1.3969838e-11}
+      rotation: {x: 0.001535326, y: 0.000000025796346, z: 0.00010735875, w: 0.9999988}
+      scale: {x: 0.99999964, y: 0.9999993, z: 0.99999994}
+    - name: Bone.017
+      parentName: Bone.016
+      position: {x: -2.5785993e-10, y: 0.0022360212, z: -2.3283063e-11}
+      rotation: {x: -0, y: -0, z: -3.2260132e-12, w: 1}
+      scale: {x: 1.0000004, y: 1.0000002, z: 0.99999994}
+    - name: Bone.017_end
+      parentName: Bone.017
+      position: {x: -0, y: 0.018967176, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: TRAPECIO DERECHO.L
+      parentName: pectoral
+      position: {x: 1.0099029e-10, y: 0.010985764, z: 0}
+      rotation: {x: 0.00000008063662, y: 0.00000018703146, z: -0.8227674, w: 0.5683784}
+      scale: {x: 1.0000018, y: 1.0000019, z: 1}
+    - name: union trapecio hombro DERECHO.L
+      parentName: TRAPECIO DERECHO.L
+      position: {x: 3.1635863e-10, y: 0.010501865, z: 5.122274e-11}
+      rotation: {x: -0.00000027553656, y: 0.00000029869543, z: 0.34337783, w: 0.9391974}
+      scale: {x: 1.000002, y: 1.0000012, z: 0.99999994}
+    - name: HOMBRO DERECHO.L
+      parentName: union trapecio hombro DERECHO.L
+      position: {x: 5.806214e-10, y: 0.0023928792, z: -1.3969838e-11}
+      rotation: {x: 0.00000034435453, y: -0.00000016708248, z: -0.13975224, w: 0.9901866}
+      scale: {x: 1.0000004, y: 1.0000007, z: 0.9999998}
+    - name: BRAZO DERECHO.L
+      parentName: HOMBRO DERECHO.L
+      position: {x: -1.2514646e-10, y: 0.004769627, z: 9.3132255e-12}
+      rotation: {x: 0.00000015929335, y: 0.00000008505083, z: 0.029430985, w: -0.99956685}
+      scale: {x: 1.000001, y: 1.0000011, z: 0.99999976}
+    - name: MANO DERECHO.L
+      parentName: BRAZO DERECHO.L
+      position: {x: -0.0000000021466986, y: 0.022753675, z: 2.0954757e-11}
+      rotation: {x: -0.000000014348826, y: -0.00000015579506, z: -0.019902764, w: 0.999802}
+      scale: {x: 1.0000036, y: 1.0000039, z: 0.99999994}
+    - name: MANO DERECHO.L_end
+      parentName: MANO DERECHO.L
+      position: {x: -0, y: 0.007846556, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: UNION PELIVS IZQUIERDA.R
+      parentName: Armature.001
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: -0.000000059604645, y: 0.000000029802322, z: -0.7071068, w: -0.70710677}
+      scale: {x: 1.0000002, y: 1.0000002, z: 1.0000001}
+    - name: UNION PELIVS IZQUIERDA.R_end
+      parentName: UNION PELIVS IZQUIERDA.R
+      position: {x: -0, y: 0.0050696675, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: ROTOR PIERNA IZQUIERDA.R
+      parentName: Armature.001
+      position: {x: -0.0050696675, y: 0, z: -0.00081164687}
+      rotation: {x: -0.47724414, y: -0.52176434, z: 0.4772441, w: 0.5217644}
+      scale: {x: 0.99999994, y: 0.9999991, z: 1}
+    - name: PIERNA IZQUIERDA.R
+      parentName: ROTOR PIERNA IZQUIERDA.R
+      position: {x: 1.3120809e-10, y: 0.0074959495, z: -5.143279e-12}
+      rotation: {x: 0.000000074505806, y: -0.00000008940697, z: 0.048329785, w: 0.9988315}
+      scale: {x: 1.000002, y: 1.0000043, z: 1.0000019}
+    - name: UNION PIE IZQUIERDO.R
+      parentName: PIERNA IZQUIERDA.R
+      position: {x: 2.2222012e-10, y: 0.013987397, z: 5.383334e-10}
+      rotation: {x: -0.000000070396666, y: 0.000000035261174, z: 0.027504064, w: 0.99962175}
+      scale: {x: 1.0000013, y: 1.0000025, z: 1.000002}
+    - name: TOBILLO IZQUIERDO.R
+      parentName: UNION PIE IZQUIERDO.R
+      position: {x: 2.6058553e-10, y: 0.0032402216, z: -1.1766402e-10}
+      rotation: {x: -0.00000005132435, y: -0.000000029161637, z: -0.32152623, w: 0.94690067}
+      scale: {x: 1.0000021, y: 1.0000026, z: 1.0000021}
+    - name: UNION SUELA IZQUIERDA.R
+      parentName: TOBILLO IZQUIERDO.R
+      position: {x: 0.0000000011010723, y: 0.0047528115, z: -6.190471e-11}
+      rotation: {x: 0.00000040542406, y: -0.00000016011113, z: -0.93944705, w: -0.3426943}
+      scale: {x: 0.99999785, y: 1.0000055, z: 1.0000029}
+    - name: SUELA IZQUIERDO.R
+      parentName: UNION SUELA IZQUIERDA.R
+      position: {x: 0.0000000033792185, y: 0.0065812487, z: 2.7955983e-11}
+      rotation: {x: 0.00000023153335, y: 0.00000025660435, z: -0.17626983, w: 0.98434186}
+      scale: {x: 0.99999726, y: 1, z: 0.9999986}
+    - name: SUELA IZQUIERDO.R_end
+      parentName: SUELA IZQUIERDO.R
+      position: {x: -0, y: 0.0056232517, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: UNION PELIVS DERECHO.L
+      parentName: Armature.001
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: -0.000000059604645, y: -0.000000029802322, z: 0.7071068, w: -0.70710677}
+      scale: {x: 1.0000002, y: 1.0000002, z: 1.0000001}
+    - name: UNION PELIVS DERECHO.L_end
+      parentName: UNION PELIVS DERECHO.L
+      position: {x: -0, y: 0.0050696675, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: ROTOR PIERNA DERECHO.L
+      parentName: Armature.001
+      position: {x: 0.0050696675, y: 0, z: -0.0012760295}
+      rotation: {x: 0.47724417, y: -0.5217644, z: 0.47724414, w: -0.5217644}
+      scale: {x: 1.0000004, y: 0.9999996, z: 0.99999976}
+    - name: PIERNA DERECHO.L
+      parentName: ROTOR PIERNA DERECHO.L
+      position: {x: -1.03226205e-10, y: 0.0074959495, z: 4.9614843e-12}
+      rotation: {x: 0.0000001490116, y: 0.000000029802319, z: -0.048460566, w: 0.9988251}
+      scale: {x: 0.99999964, y: 1.0000015, z: 1.0000018}
+    - name: UNION PIE DERECHO.L
+      parentName: PIERNA DERECHO.L
+      position: {x: -1.8434886e-10, y: 0.013523025, z: 5.626679e-10}
+      rotation: {x: -0.00000010311785, y: -0.00000000907557, z: -0.027373211, w: 0.9996253}
+      scale: {x: 1.0000023, y: 1.0000032, z: 1.0000008}
+    - name: TOBILLO DERECHO.L
+      parentName: UNION PIE DERECHO.L
+      position: {x: 8.6012973e-13, y: 0.0032402196, z: -8.937607e-11}
+      rotation: {x: 0.014770242, y: 0.00501531, z: 0.11249218, w: 0.99353015}
+      scale: {x: 0.9999996, y: 1.0000004, z: 1.0000015}
+    - name: UNION SUELA DERECHO.L
+      parentName: TOBILLO DERECHO.L
+      position: {x: -2.3332683e-10, y: 0.0047528143, z: -3.7318804e-10}
+      rotation: {x: 0.7407068, y: -0.6615473, z: -0.090478785, w: 0.0743127}
+      scale: {x: 0.99999887, y: 1.0000051, z: 1.0000033}
+    - name: SUELA DERECHO.L
+      parentName: UNION SUELA DERECHO.L
+      position: {x: 0.0000000027331235, y: 0.00658125, z: 6.352577e-10}
+      rotation: {x: 0.00000027086674, y: -0.00000030381165, z: 0.17626972, w: 0.984342}
+      scale: {x: 0.9999978, y: 1.0000018, z: 0.99999994}
+    - name: SUELA DERECHO.L_end
+      parentName: SUELA DERECHO.L
+      position: {x: -0, y: 0.0056232517, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    globalScale: 1
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 1
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  autoGenerateAvatarMappingIfUnspecified: 1
+  animationType: 3
+  humanoidOversampling: 1
+  avatarSetup: 1
+  addHumanoidExtraRootOnlyWhenUsingAvatar: 1
+  importBlendShapeDeformPercent: 1
+  remapMaterialsIfMaterialImportModeIsNone: 0
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

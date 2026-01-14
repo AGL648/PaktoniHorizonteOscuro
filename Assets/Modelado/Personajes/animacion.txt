@@ -1,0 +1,4 @@
+Animacion de caminar 20-48
+Guantazo con la mano derecha 60-88
+Animacion de muerte 94-105
+bucle parado 48-59

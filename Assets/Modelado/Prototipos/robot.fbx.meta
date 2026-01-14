@@ -1,0 +1,406 @@
+fileFormatVersion: 2
+guid: 8d707549006fd294480f065bc41a5caf
+ModelImporter:
+  serializedVersion: 22200
+  internalIDToNameTable: []
+  externalObjects: {}
+  materials:
+    materialImportMode: 2
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    removeConstantScaleCurves: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 3
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 0
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    sortHierarchyByName: 1
+    importPhysicalCameras: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    nodeNameCollisionStrategy: 1
+    fileIdsGeneration: 2
+    swapUVChannels: 0
+    generateSecondaryUV: 1
+    useFileUnits: 1
+    keepQuads: 0
+    weldVertices: 1
+    bakeAxisConversion: 0
+    preserveHierarchy: 0
+    skinWeightsMode: 0
+    maxBonesPerVertex: 4
+    minBoneWeight: 0.001
+    optimizeBones: 1
+    meshOptimizationFlags: -1
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVMarginMethod: 1
+    secondaryUVMinLightmapResolution: 40
+    secondaryUVMinObjectScale: 1
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    strictVertexDataChecks: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  referencedClips: []
+  importAnimation: 1
+  humanDescription:
+    serializedVersion: 3
+    human:
+    - boneName: Esqueleto
+      humanName: Hips
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Hueso.009
+      humanName: LeftUpperLeg
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Hueso.011
+      humanName: RightUpperLeg
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Hueso.010
+      humanName: LeftLowerLeg
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Hueso.012
+      humanName: RightLowerLeg
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Hueso.013
+      humanName: LeftFoot
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Hueso.014
+      humanName: RightFoot
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Hueso
+      humanName: Spine
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Hueso.001
+      humanName: Chest
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Hueso.015
+      humanName: Neck
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Hueso.016
+      humanName: Head
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Hueso.003
+      humanName: LeftShoulder
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Hueso.002
+      humanName: RightShoulder
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Hueso.004
+      humanName: LeftUpperArm
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Hueso.005
+      humanName: RightUpperArm
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Hueso.007
+      humanName: LeftLowerArm
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Hueso.006_end
+      humanName: RightHand
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Hueso.006
+      humanName: RightLowerArm
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Hueso.007_end
+      humanName: LeftHand
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    skeleton:
+    - name: robot(Clone)
+      parentName: 
+      position: {x: 0, y: 0, z: 0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Cubo
+      parentName: robot(Clone)
+      position: {x: -0, y: 1.4269361, z: 0}
+      rotation: {x: 0.5, y: -0.49999997, z: -0.5, w: -0.5}
+      scale: {x: 100, y: 100, z: 100}
+    - name: Esqueleto
+      parentName: robot(Clone)
+      position: {x: -0, y: -0.0015615672, z: 0.14911027}
+      rotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071067}
+      scale: {x: 100, y: 100, z: 100}
+    - name: Hueso
+      parentName: Esqueleto
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0.71341777, y: -0.04085697, z: -0.044488847, w: 0.69813085}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Hueso.001
+      parentName: Hueso
+      position: {x: -0, y: 0.007642642, z: -1.9208527e-11}
+      rotation: {x: -0.089276694, y: -0.018345313, z: -0.001644635, w: 0.99583656}
+      scale: {x: 1, y: 0.99999994, z: 0.99999994}
+    - name: Hueso.002
+      parentName: Hueso.001
+      position: {x: 5.587932e-11, y: 0.011606664, z: 2.3283063e-11}
+      rotation: {x: 0.1376024, y: 0.0037725698, z: -0.7570721, w: 0.6386652}
+      scale: {x: 1, y: 0.99999994, z: 1}
+    - name: Hueso.005
+      parentName: Hueso.002
+      position: {x: -8.0093737e-10, y: 0.010317185, z: 1.11758706e-10}
+      rotation: {x: -0.08705069, y: -0.05387127, z: -0.35669607, w: 0.92859465}
+      scale: {x: 0.9999999, y: 1, z: 0.9999999}
+    - name: Hueso.006
+      parentName: Hueso.005
+      position: {x: 0.0000000013038516, y: 0.005774656, z: -2.7939448e-10}
+      rotation: {x: 0.00000001503318, y: -0.00000012637268, z: -0.13223779, w: 0.99121803}
+      scale: {x: 1, y: 1.0000001, z: 1.0000001}
+    - name: Hueso.006_end
+      parentName: Hueso.006
+      position: {x: -0, y: 0.010468607, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Hueso.003
+      parentName: Hueso.001
+      position: {x: 5.587932e-11, y: 0.011606664, z: 2.3283063e-11}
+      rotation: {x: 0.14239144, y: 0.0014579906, z: 0.77405995, w: 0.6168904}
+      scale: {x: 1.0000002, y: 1, z: 1}
+    - name: Hueso.004
+      parentName: Hueso.003
+      position: {x: 2.0489097e-10, y: 0.009487918, z: 2.9802322e-10}
+      rotation: {x: -0.10095024, y: 0.04809111, z: 0.23593952, w: 0.96531284}
+      scale: {x: 1, y: 1, z: 0.99999994}
+    - name: Hueso.007
+      parentName: Hueso.004
+      position: {x: 0.0000000013597309, y: 0.006084564, z: -2.0489324e-10}
+      rotation: {x: 0.00000020431672, y: 0.00000002813196, z: 0.41599494, w: 0.90936697}
+      scale: {x: 1.0000001, y: 1, z: 1}
+    - name: Hueso.007_end
+      parentName: Hueso.007
+      position: {x: -0, y: 0.013094827, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Hueso.015
+      parentName: Hueso.001
+      position: {x: 5.587932e-11, y: 0.011606664, z: 2.3283063e-11}
+      rotation: {x: 0.08929182, y: -9.496685e-10, z: -0.000000021447883, w: 0.99600554}
+      scale: {x: 1, y: 1, z: 0.99999994}
+    - name: Hueso.016
+      parentName: Hueso.015
+      position: {x: 3.5527136e-17, y: 0.0037221464, z: -9.313225e-11}
+      rotation: {x: 0.000000007377821, y: 0.0000000074323907, z: -1.1641532e-10, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Hueso.016_end
+      parentName: Hueso.016
+      position: {x: -0, y: 0.012458839, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Hueso.008
+      parentName: Esqueleto
+      position: {x: -0, y: 0.000028567314, z: 0}
+      rotation: {x: -0.63763297, y: 0, z: -0, w: 0.7703403}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Hueso.008_end
+      parentName: Hueso.008
+      position: {x: -0, y: 0.009409025, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Hueso.009
+      parentName: Esqueleto
+      position: {x: -0.0055832146, y: 0.0017866286, z: -0.0078165}
+      rotation: {x: -0.78419405, y: -0.000000073971215, z: 0.000000093483216, w: 0.62051576}
+      scale: {x: 1, y: 0.99999994, z: 0.99999994}
+    - name: Hueso.010
+      parentName: Hueso.009
+      position: {x: 2.4698713e-10, y: 0.008159161, z: 4.0913278e-10}
+      rotation: {x: 0.3076797, y: -2.5232309e-15, z: -0.00000007335656, w: 0.95149}
+      scale: {x: 1, y: 0.9999999, z: 1}
+    - name: Hueso.013
+      parentName: Hueso.010
+      position: {x: -2.6805147e-10, y: 0.008937287, z: -1.5897413e-10}
+      rotation: {x: -0.7576234, y: -0.00000033197233, z: 0.0000005659742, w: 0.65269196}
+      scale: {x: 1, y: 0.99999994, z: 0.99999994}
+    - name: Hueso.013_end
+      parentName: Hueso.013
+      position: {x: -0, y: 0.006927369, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Hueso.011
+      parentName: Esqueleto
+      position: {x: 0.006451714, y: 0.0017866286, z: -0.0078165}
+      rotation: {x: -0.7671874, y: -0.000000076463586, z: 0.00000009145585, w: 0.641423}
+      scale: {x: 1, y: 0.99999994, z: 0.99999994}
+    - name: Hueso.012
+      parentName: Hueso.011
+      position: {x: -4.427226e-10, y: 0.008068183, z: 2.871839e-10}
+      rotation: {x: 0.25929275, y: -2.9456353e-14, z: -0.00000006182022, w: 0.9657988}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Hueso.014
+      parentName: Hueso.012
+      position: {x: -3.5620218e-12, y: 0.008775723, z: -6.4413896e-10}
+      rotation: {x: -0.74206936, y: -0.00000034094012, z: 0.00000055435487, w: 0.67032313}
+      scale: {x: 1, y: 0.9999999, z: 0.9999999}
+    - name: Hueso.014_end
+      parentName: Hueso.014
+      position: {x: -0, y: 0.006927369, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: mascara blanca
+      parentName: robot(Clone)
+      position: {x: -0, y: 1.4269361, z: 0}
+      rotation: {x: 0.5, y: -0.49999997, z: -0.5, w: -0.5}
+      scale: {x: 100, y: 100, z: 100}
+    - name: mascara blanca con pico
+      parentName: robot(Clone)
+      position: {x: -0, y: 1.4269361, z: 0}
+      rotation: {x: 0.5, y: -0.49999997, z: -0.5, w: -0.5}
+      scale: {x: 100, y: 100, z: 100}
+    - name: mascara negra
+      parentName: robot(Clone)
+      position: {x: -0, y: 1.4269361, z: 0}
+      rotation: {x: 0.5, y: -0.49999997, z: -0.5, w: -0.5}
+      scale: {x: 100, y: 100, z: 100}
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    globalScale: 1
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 1
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  autoGenerateAvatarMappingIfUnspecified: 1
+  animationType: 3
+  humanoidOversampling: 1
+  avatarSetup: 1
+  addHumanoidExtraRootOnlyWhenUsingAvatar: 1
+  importBlendShapeDeformPercent: 1
+  remapMaterialsIfMaterialImportModeIsNone: 0
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

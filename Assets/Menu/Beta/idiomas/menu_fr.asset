@@ -1,0 +1,113 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e9620f8c34305754d8cc9a7e49e852d9, type: 3}
+  m_Name: menu_fr
+  m_EditorClassIdentifier: 
+  m_LocaleId:
+    m_Code: fr
+  m_SharedData: {fileID: 11400000, guid: 1e4bfe74821b2fe4fa1d2744377449ca, type: 2}
+  m_Metadata:
+    m_Items: []
+  m_TableData:
+  - m_Id: 12758540288
+    m_Localized: languag
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1273461465088
+    m_Localized: 'des voix
+
+'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1961964855296
+    m_Localized: non
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2288952795136
+    m_Localized: langage
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1364930846720
+    m_Localized: environnements
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1723191517184
+    m_Localized: porter
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1755403771904
+    m_Localized: supprimer
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1835972157440
+    m_Localized: double
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1048764211200
+    m_Localized: "fr\xE9quence de"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1514013188096
+    m_Localized: mode
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1574344056832
+    m_Localized: "rafra\xEEchissement"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1634406490112
+    m_Localized: 'le rendu
+
+'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1666920734720
+    m_Localized: revenir
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1926371991552
+    m_Localized: Ouais
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2317377593344
+    m_Localized: "mode fen\xEAtre\r\n"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2374751477760
+    m_Localized: "r\xE9solution"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2438748168192
+    m_Localized: 'lissage des textures
+
+'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 735113240969216
+    m_Localized: Nouveau jeu
+    m_Metadata:
+      m_Items: []
+  - m_Id: 735163471953920
+    m_Localized: Chargement du jeu
+    m_Metadata:
+      m_Items: []
+  - m_Id: 735184007266304
+    m_Localized: "Possibilit\xE9s"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 735414626877440
+    m_Localized: sortir
+    m_Metadata:
+      m_Items: []
+  references:
+    version: 2
+    RefIds: []
